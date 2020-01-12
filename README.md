@@ -2,6 +2,8 @@
 
 Productivity made simple. IDEA Hacks 2020
 
+Presentation: [Link](https://docs.google.com/presentation/d/13T108Myz4HOZzt7Z4BTf_1tRyv6G9739l8QO8cFidDg/edit?usp=sharing)
+
 Creators:
 - Jay Park
 - Justin Jianto
