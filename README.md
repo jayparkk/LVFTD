@@ -24,4 +24,4 @@ audio_handler.py: Controls music playback using Python and Spotipy
 ideahacks_rfid.ino: Code to control Arduino Nano and interact with various components
 
 Software:
-http://127.0.0.1:8080/manual.htm
+https://github.com/NardJ/HTMLSerialMonitor
